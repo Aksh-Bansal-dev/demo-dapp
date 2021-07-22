@@ -2,10 +2,10 @@
 Basic CRUD functionality in DApp.
 
 ## Technologies used
-- Ganache to run local blockchain
-- Truffle for development and testing smart contracts
-- Web3 to use smart contract on the client side
-- Webpack to serve html and javascript
+- `Ganache` to run local blockchain
+- `Truffle` for development and testing smart contracts
+- `Web3` to use smart contract on the client side
+- `Webpack` to serve html and javascript
 
 ## How to use
 #### Frontend
